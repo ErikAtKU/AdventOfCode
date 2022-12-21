@@ -1,0 +1,10 @@
+﻿#include @"dec21part2\dec21part2.ph"
+
+% privately used packages
+#include @"pfc\collection\M\mapM_redBlack\mapM_redBlack.ph"
+#include @"pfc\collection\M\setM_redBlack\setM_redBlack.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\fileSystem\fileSystem.ph"
+#include @"pfc\collection\collection.ph"
+% implementations
+#include @"dec21part2\dec21part2.pro"
